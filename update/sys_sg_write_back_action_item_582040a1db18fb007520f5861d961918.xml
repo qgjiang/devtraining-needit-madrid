@@ -21,4 +21,5 @@
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
     </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=582040a1db18fb007520f5861d961918"/>
 </record_update>

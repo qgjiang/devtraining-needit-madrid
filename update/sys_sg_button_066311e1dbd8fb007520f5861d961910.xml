@@ -15,7 +15,6 @@
         <failure_message>The Short description field was not updated.</failure_message>
         <field_name/>
         <jump_to_screen>false</jump_to_screen>
-        <label/>
         <link_label/>
         <link_url/>
         <mail_address/>
@@ -48,4 +47,5 @@
         <type>write_back</type>
         <write_back_action_item display_value="Update NeedIt Short description">582040a1db18fb007520f5861d961918</write_back_action_item>
     </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=066311e1dbd8fb007520f5861d961910"/>
 </record_update>

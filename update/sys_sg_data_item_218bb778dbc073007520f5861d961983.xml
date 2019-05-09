@@ -23,4 +23,5 @@
         <sys_updated_on>2019-03-05 17:01:41</sys_updated_on>
         <table>x_58872_needit_needit</table>
     </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=218bb778dbc073007520f5861d961983"/>
 </record_update>

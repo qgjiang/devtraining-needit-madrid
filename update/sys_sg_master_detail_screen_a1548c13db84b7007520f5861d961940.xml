@@ -25,4 +25,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 17:27:46</sys_updated_on>
     </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a1548c13db84b7007520f5861d961940"/>
 </record_update>

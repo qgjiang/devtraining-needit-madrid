@@ -15,7 +15,6 @@
         <failure_message>The Priority field value was not changed for record {{number}}.</failure_message>
         <field_name/>
         <jump_to_screen>false</jump_to_screen>
-        <label/>
         <link_label/>
         <link_url/>
         <mail_address/>
@@ -48,4 +47,5 @@
         <type>write_back</type>
         <write_back_action_item display_value="Update NeedIt Priority">a1bf3f51db18fb007520f5861d9619b4</write_back_action_item>
     </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b4328e5db58fb007520f5861d96191b"/>
 </record_update>
